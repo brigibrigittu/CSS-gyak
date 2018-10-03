@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+.tidbit {
+   width: 300px;
+   height: 500px;
+   font-family: "Roboto Slab", sans-serif;
+   font-size: 16px;
+   padding: 10px;
+   margin-bottom: 20px;
+}
+
+.nature {
+   background: #64d8cb; /* türkiz */
+}
+
+.title {
+  width: 273px;
+  height: 128px;
+  font-size: 64px;
+   text-align: right;
+   color: #4a4a4a;
+   line-height: 1;
+}
+
+.lead {
+   font-size: 18px;
+   font-style: italic;
+   background: #ffb6c1;
+}
+
+.more {
+   background: #03a9f4; /*világoskék*/
+}
+
+.lead-alt,
+.short p {
+   font-size: 24px;
+   width: 269px;
+  height: 214px;
+  font-size: 36px;
+  line-height: 1;
+letter-spacing: normal;
+color:: #4a4a4a;
+background: #f8e71c;
+padding: 7px;
+padding-bottom: 21px;/* sárga */
+}
